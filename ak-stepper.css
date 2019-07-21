@@ -1,0 +1,31 @@
+#regForm {
+      background-color: #ffffff;
+      margin: 100px auto;
+      padding: 40px;
+      width: 70%;
+      min-width: 300px;
+    }
+
+
+    /* Hide all steps by default: */
+    .tab {
+      display: none;
+    }
+
+    /* Make circles that indicate the steps of the form: */
+    .step {
+      display: inline-block;
+      margin: 0 2px;
+      border: none; 
+      border-radius: 50%;
+      opacity: 0.5;
+    }
+
+    /* Mark the active step: */
+    .step.active {
+      opacity: 1;
+      color: lightgreen;
+    }
+    .step.finish {
+      color: green;
+    }
