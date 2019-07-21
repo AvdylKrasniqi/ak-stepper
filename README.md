@@ -2,7 +2,7 @@
 ak-stepper is a stepper plugin built with pureJS.
 It is built on pure js, so no jquery or similiar scripts are needed.
 <h3>Demo</h3>
-<a href="https://avdylkrasniqi.github.io/ak-stepper/">Demo</a>
+<a href="https://avdylkrasniqi.github.io/ak-stepper/">Demo</a><br/>
 <b><i>This code isn't written by me. I borrowed it from w3schools and I have updated it</i></b>
 <b>External links used</b>
 <ul>
