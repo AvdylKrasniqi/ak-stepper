@@ -25,6 +25,6 @@ It is built on pure js, so no jquery or similiar scripts are needed.
   <p>You can easily add a new step just by creating a div that have "tab" class, then the js will automatically render the steps.
   <h2>Configure steps (Changing icons and step description)</h2>
   <p>To set an icon or a description of the step, there are datasets `data-akstepper-iconclass` and `data-akstepper-desc`</p>
-  <p>Simply, just put the classes of icon (from Fontawesome or similiar) on `data-akstepper-iconclass`, and a description on `data-akstepper-desc`</p>
+  <p>Simply, just put the classes of icon (from Fontawesome or similar) on `data-akstepper-iconclass`, and a description on `data-akstepper-desc`</p>
   <h2>Configure inputs</h2>
   <p>If you want to make an input optional, just put the `data-akstepper-optional` attribute on desired input</p>
